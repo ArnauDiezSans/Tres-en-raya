@@ -1,0 +1,10 @@
+C:\Users\Arnau\source\repos\3enraya\3enraya\bin\Debug\3enraya.exe.config
+C:\Users\Arnau\source\repos\3enraya\3enraya\bin\Debug\3enraya.exe
+C:\Users\Arnau\source\repos\3enraya\3enraya\bin\Debug\3enraya.pdb
+C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.csprojAssemblyReference.cache
+C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\_3enraya.Form1.resources
+C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\_3enraya.Properties.Resources.resources
+C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.csproj.GenerateResource.cache
+C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.exe
+C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.pdb
