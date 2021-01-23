@@ -8,3 +8,13 @@ C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.csproj.GenerateRes
 C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.csproj.CoreCompileInputs.cache
 C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.exe
 C:\Users\Arnau\source\repos\3enraya\3enraya\obj\Debug\3enraya.pdb
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\bin\Debug\3enraya.exe.config
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\bin\Debug\3enraya.exe
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\bin\Debug\3enraya.pdb
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\obj\Debug\3enraya.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\obj\Debug\_3enraya.Properties.Resources.resources
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\obj\Debug\3enraya.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\obj\Debug\3enraya.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\obj\Debug\3enraya.exe
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\obj\Debug\3enraya.pdb
+C:\Users\victo\source\repos\Tres-en-raya-main\3enraya\3enraya\obj\Debug\_3enraya.TresEnRaya.resources
